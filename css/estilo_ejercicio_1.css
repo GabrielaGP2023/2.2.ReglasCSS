@@ -1,0 +1,35 @@
+    body {
+      margin: 40px;
+      font-family: Tahoma, sans-serif;
+    }
+
+    .linea1 {
+      margin-top: 16px;  
+      font-size: 0.5in;
+    }
+
+    .linea2 {
+      margin-top: 16px;   
+      font-style: oblique;
+    }
+
+    .linea3 {
+      margin-top: 16px;   
+      font-weight: bold;
+    }
+
+    .linea4 {
+       margin-top: 16px;  
+      color: green;
+    }
+
+    .parrafo {
+      text-indent: 35px;
+      letter-spacing: 9px;
+      word-spacing: 10px;
+      line-height: 2;
+      text-align: justify;
+      font-family: Tahoma, sans-serif;
+      font-size: 25px;
+    }
+  
