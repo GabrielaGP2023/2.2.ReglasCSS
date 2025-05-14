@@ -1,0 +1,59 @@
+.cursiva{
+    font-style: oblique;
+}
+.negrita{
+    font-weight: bolder;
+}
+.versalles{
+    text-transform: uppercase;
+}
+.puntos{
+
+    font-size: 12;
+}
+.pulgadas{
+    font-size: 0.75in;
+}
+.pixeles{
+    font-size: 20px;
+}
+.courier{
+font-family: Courier;
+}
+.helvetica{
+    font-family: Helvetica;
+
+}
+.arial{
+    font-family: Arial;
+
+}
+.courier2{
+    font-family: courier,arial;
+    }
+.variado{
+    font-style: oblique;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-family: Courier;
+    font-size: 12;
+
+}
+.subrayado{
+     
+}
+.lineaup{
+text-decoration-line: overline
+}
+.tachado{
+    
+}
+.minusculas{
+    text-transform: lowercase;
+}
+.mayusculas{
+    text-transform: uppercase;
+}
+.titulo{
+
+}
