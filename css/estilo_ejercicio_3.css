@@ -1,0 +1,58 @@
+    body {
+      font-family: Tahoma, sans-serif;
+      margin: 40px;
+    }
+
+    h2 {
+      border-top: 2px solid #000;
+      padding-top: 10px;
+    }
+
+    .izquierda {
+      text-align: left;
+    }
+
+    .derecha {
+      text-align: right;
+    }
+
+    .centrado {
+      text-align: center;
+    }
+
+    .margen-lr {
+      margin-left: 25px;
+      margin-right: 25%;
+      background-color: #ccc;
+    }
+
+    .margen-superior {
+      margin-top: 40px;
+      background-color: #ccc;
+    }
+
+    .margen-total {
+      margin: 10%;
+      background-color: #ccc;
+    }
+
+    .espaciado-normal {
+      letter-spacing: normal;
+    }
+
+    .espaciado-px {
+      letter-spacing: 4px;
+    }
+
+    .espaciado-cm {
+      letter-spacing: calc(0.25cm + normal);
+    }
+
+    .sangria-normal {
+      text-indent: 2em;
+    }
+
+    .sangria-pulgadas {
+      text-indent: 0.5in;
+    }
+  
