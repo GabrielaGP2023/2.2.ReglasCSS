@@ -1,0 +1,31 @@
+
+.derecha{
+    text-align: right;
+}
+.centrado{
+    text-align: center;
+}
+.margen{
+    margin-left: 25px;
+    margin-right: 25%;
+    background-color: grey;
+}
+.margenSuperior{
+    margin-top: 40px;
+    background-color: grey;
+}
+.espaciado4{
+    letter-spacing: 4px;
+}
+.espaciado25{
+    letter-spacing: 0.25cm;
+}
+.sangria5{
+    text-indent: 0.5in;
+}
+.margentotal{
+    margin: 10%;
+    background-color: grey;
+}
+
+
