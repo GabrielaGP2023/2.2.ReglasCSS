@@ -1,0 +1,25 @@
+.parrafogris{
+    background-color: rgb(176, 172, 172);
+}
+.derecha{
+    text-align: right; 
+}
+.centrado{
+    text-align: center;
+}
+.margen{
+    margin-left: 25px;
+    margin-right: 25%;
+}
+.margenSuperior{
+    margin-top: 40px;
+}
+.espaciado4{
+    letter-spacing: 4px;
+}
+.espaciado25{
+    letter-spacing: 0.25cm;
+}
+.sangria5{
+    text-indent: 0.5in;
+}
